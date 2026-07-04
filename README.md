@@ -31,7 +31,7 @@ and re-upload here if a video needs to change.
 | 1 | Welcome & the Tool Map | Live |
 | 2 | Research: Intelligence & Contacts | Live |
 | 3 | Discovery Part 1: Desk Research & Organization | Live |
-| 4 | Discovery Part 2: Alignment & SE Supplement | Pending |
+| 4 | Discovery Part 2: Alignment & SE Supplement | Live |
 | 5 | Commitment, Sign-Off & the Business Plan | Pending |
 | 6 | GTM Plan, Enablement Plan & Generate | Pending |
 | 7 | Save, Load & Handoff | Pending |
