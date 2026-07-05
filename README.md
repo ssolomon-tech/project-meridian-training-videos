@@ -34,4 +34,4 @@ and re-upload here if a video needs to change.
 | 4 | Discovery Part 2: Alignment & SE Supplement | Live |
 | 5 | Commitment, Sign-Off & the Business Plan | Live |
 | 6 | GTM Plan, Enablement Plan & Generate | Live |
-| 7 | Save, Load & Handoff | Pending |
+| 7 | Save, Load & Handoff | Live |
