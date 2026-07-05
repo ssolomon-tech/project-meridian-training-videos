@@ -33,5 +33,5 @@ and re-upload here if a video needs to change.
 | 3 | Discovery Part 1: Desk Research & Organization | Live |
 | 4 | Discovery Part 2: Alignment & SE Supplement | Live |
 | 5 | Commitment, Sign-Off & the Business Plan | Live |
-| 6 | GTM Plan, Enablement Plan & Generate | Pending |
+| 6 | GTM Plan, Enablement Plan & Generate | Live |
 | 7 | Save, Load & Handoff | Pending |
