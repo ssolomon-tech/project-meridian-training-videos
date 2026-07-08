@@ -23,6 +23,7 @@ and re-upload here if a video needs to change.
 ## Structure
 - `videos/` — the actual `.mp4` files, named `01_...` through `07_...`
 - `thumbnails/` — a representative frame (or a "coming soon" placeholder) for each video, used as the card thumbnail in the tool
+- `videos/Platform_Overview_Demo.mp4` — a separate, non-numbered video: a single ~4-minute walkthrough covering *both* tools together, linked from the main landing page (`tools/Landing_Page.html`) rather than either tool's own tutorial series. Real screen recording (not NotebookLM-generated), narrated over live use of both tools with the same fictional fixture data as everything else in this repo — no real partner/customer data.
 
 ## Status
 
@@ -35,3 +36,4 @@ and re-upload here if a video needs to change.
 | 5 | Commitment, Sign-Off & the Business Plan | Live |
 | 6 | GTM Plan, Enablement Plan & Generate | Live |
 | 7 | Save, Load & Handoff | Live |
+| — | Platform Overview Demo (both tools, landing page) | Live |
